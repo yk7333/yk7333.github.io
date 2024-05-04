@@ -89,10 +89,10 @@ Reseach on efficient RLHF-based fine-tuning methods for improving LLM performanc
 
 **Parametrix Technology Company**
 
-Research on how to enhance AIGC performance using RLHF and developing baseline algorithms for the Kaggle Lux competition.
+Research on how to enhance AIGC performance using RLHF and developing baseline algorithms [code](https://github.com/RoboEden/Luxai-s2-Baseline?tab=readme-ov-file) for the [Kaggle Lux](https://www.kaggle.com/competitions/lux-ai-season-2-neurips-stage-2) competition.
 
 Teaching
 ====
-*Introduction to Reinforcement Learning* by Prof. [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en), Spring 2024. (Teaching Assistant)
+Teaching Assistant of the course *Introduction to Reinforcement Learning* instructed by Prof. [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en), Spring 2024.
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=581m307h0ja&amp;m=7&amp;c=ff00ff&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
