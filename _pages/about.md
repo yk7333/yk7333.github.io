@@ -6,7 +6,7 @@ redirect_from:
 
 ---
 
-I am currently a second-year master's student at Tsinghua Shenzhen International Graduate School, Tsinghua University, affiliated with the Intelligent Computing Lab. My supervisor is Prof.[Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en), and I have received a lot of research guidance from my senior fellow student [Jiafei Lyu](https://dmksjfl.github.io/). My main research focus on Reinforcement Learning, especially on Agent Exploration, Multi-Agent Reinforcement Learning and RLHF of Large Models. Currently, I am undertaking an internship at Tencent Technology Engineering Group, Machine Learning Platform Department, researching the effective fine-tuning of Large Language Models using RLHF.
+I am currently a second-year master's student at Tsinghua Shenzhen International Graduate School, Tsinghua University, affiliated with the Intelligent Computing Lab. My supervisor is Prof. [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en), and I have received a lot of research guidance from my senior fellow student [Jiafei Lyu](https://dmksjfl.github.io/). My main research focus on Reinforcement Learning, especially on Agent Exploration, Multi-Agent Reinforcement Learning and RLHF of Large Models. Currently, I am undertaking an internship at Tencent Technology Engineering Group, Machine Learning Platform Department, researching the effective fine-tuning of Large Language Models using RLHF.
 
 I have not yet decided on my future direction. If you believe I am a good fit for your position or would consider me for a PhD program, please don't hesitate to contact me at yk22@mails.tsinghua.edu.cn.
 
@@ -62,16 +62,17 @@ Honors & Awards
 Competitions
 ======
 
-Math:
------
+### Math:
+
 **<font color="red">First Prize</font>** in the National Finals of the 13th Chinese Mathematics Competitions (CMC), ranking **7th** nationwide.
 
 **third prize** in the National Finals of the 3rd Hua Jiao Cup Mathematics Competition.
 
 **Second Prize** at the provincial level in the 12th Chinese Mathematics Competitions (CMC).
 
-Computer Science:
------
+
+### Computer Science:
+
 **<font color="red">1st</font>** place in the "Gorgewalk_v2" environment of the Tencent Honor of Kings AI Challenge.
 
 **Top 20** in the "hok_1v1" environment of the Tencent Honor of Kings AI Challenge.
@@ -92,6 +93,6 @@ Research on how to enhance AIGC performance using RLHF and developing baseline a
 
 Teaching
 ====
-*Introduction to Reinforcement Learning* by Prof.[Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en), Spring 2024. (Teaching Assistant)
+*Introduction to Reinforcement Learning* by Prof. [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en), Spring 2024. (Teaching Assistant)
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=581m307h0ja&amp;m=7&amp;c=ff00ff&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
