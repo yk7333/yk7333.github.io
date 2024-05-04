@@ -64,22 +64,22 @@ Competitions
 
 ### Math:
 
-**<font color="red">First Prize</font>** in the National Finals of the 13th Chinese Mathematics Competitions (CMC), ranking **7th** nationwide.
+- **<font color="red">First Prize</font>** in the National Finals of the 13th Chinese Mathematics Competitions (CMC), ranking **7th** nationwide.
 
-**third prize** in the National Finals of the 3rd Hua Jiao Cup Mathematics Competition.
+- **third prize** in the National Finals of the 3rd Hua Jiao Cup Mathematics Competition.
 
-**Second Prize** at the provincial level in the 12th Chinese Mathematics Competitions (CMC).
+- **Second Prize** at the provincial level in the 12th Chinese Mathematics Competitions (CMC).
 
 
 ### Computer Science:
 
-**<font color="red">1st</font>** in the "Gorgewalk_v2" environment of the Tencent Honor of Kings AI Challenge.
+- **<font color="red">1st</font>** in the "Gorgewalk_v2" environment of the Tencent Honor of Kings AI Challenge.
 
-**Top 20** in the "hok_1v1" environment of the Tencent Honor of Kings AI Challenge.
+- **Top 20** in the "hok_1v1" environment of the Tencent Honor of Kings AI Challenge.
 
-**Top 20** in the RLChina AI Challenge - RenYin Winter Season.
+- **Top 20** in the RLChina AI Challenge - RenYin Winter Season.
 
-**Honorable Mention Award** in the 2021 Mathematical Contest in Modeling (MCM).
+- **Honorable Mention Award** in the 2021 Mathematical Contest in Modeling (MCM).
 
 Internships
 ======
