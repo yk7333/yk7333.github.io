@@ -28,7 +28,7 @@ News
 
 Publications
 ======
-- [Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model](https://arxiv.org/abs/2311.13231). **Kai Yang**, Jian Tao, Jiafei Lyu, Chunjiang Ge, Jiaxin Chen, Weihan Shen, Xiaolong Zhu, Xiu Li. IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. **(<font color="red">Huggingface Daily Paper)</font>**
+- [Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model](https://arxiv.org/abs/2311.13231). **Kai Yang**, Jian Tao, Jiafei Lyu, Chunjiang Ge, Jiaxin Chen, Weihan Shen, Xiaolong Zhu, Xiu Li. IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. **<font color="red">(Huggingface Daily Paper)</font>**
 - [Exploration and Anti-Exploration with Distributional Random Network Distillation](https://arxiv.org/abs/2401.09750). **Kai Yang**, Jian Tao, Jiafei Lyu, Xiu Li. International Conference on Machine Learning (ICML), 2024.
 - [BATON: Aligning Text-to-Audio Model with Human Preference Feedback](https://arxiv.org/abs/2402.00744). Huan Liao, Haonan Han, **Kai Yang**, Tianjiao Du, Rui Yang, Zunnan Xu, Qinmei Xu, Jingquan Liu, Jiasheng Lu, Xiu Li. International Joint Conference on Artificial Intelligence (IJCAI), 2024.
 - [GTLMA: Generalizable Hierarchical Learning for Tasks with Variable Entities](). **Kai Yang**, Aicheng Gong, Jian Tao, Yang Zhang, Xiu Li. 2023 International Conference on Frontiers of Robotics and Software Engineering (FRSE).
