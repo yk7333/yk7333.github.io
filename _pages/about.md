@@ -6,14 +6,34 @@ redirect_from:
 
 ---
 
-test
+I am currently a second-year master's student at Tsinghua Shenzhen International Graduate School, Tsinghua University, affiliated with the Intelligent Computing Lab. My supervisor is Prof.  [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en), and I have received a lot of research guidance from my senior fellow student [Jiafei Lyu](https://dmksjfl.github.io/). My main research focus on Reinforcement Learning, especially on Agent Exploration, Multi-Agent Reinforcement Learning and RLHF of Large Models. Currently, I am undertaking an internship at Tencent Technology Engineering Group, Machine Learning Platform Department, researching the effective fine-tuning of Large Language Models using RLHF.
 
-A data-driven personal website
+I have not yet decided on my future direction. If you believe I am a good fit for your position or would consider me for a PhD program, please don't hesitate to contact me at yk22@mails.tsinghua.edu.cn.
+
+News
+=====
+- 2024.5 The paper "Exploration and Anti-Exploration with Distributional Random Network Distillation" is accepted by ICML 2024
+
+- 2024.4 The work "BATON: Aligning Text-to-Audio Model with Human Preference Feedback" is accepted by IJCAI 2024.
+
+- 2024.2 The paper "Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model" is accepted by CVPR 2024
+
+- 2024.2 The work "BATON: Aligning Text-to-Audio Model with Human Preference Feedback" is on [Arxiv](https://arxiv.org/abs/2402.00744).
+
+- 2024.1 My work "Exploration and Anti-Exploration with Distributional Random Network Distillation" is on [Arxiv](https://arxiv.org/abs/2401.09750).
+
+- 2023.11 The paper "Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model" is selected as [HuggingFace daily paper](https://huggingface.co/papers/2311.13231)
+
+- 2023.11 My work "Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model" is on [Arxiv](https://arxiv.org/abs/2311.13231).
+
+Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
+- [Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model](https://arxiv.org/abs/2311.13231). **Kai Yang**, Jian Tao, Jiafei Lyu, Chunjiang Ge, Jiaxin Chen, Weihan Shen, Xiaolong Zhu, Xiu Li. IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024
+- [Exploration and Anti-Exploration with Distributional Random Network Distillation](https://arxiv.org/abs/2401.09750). **Kai Yang**, Jian Tao, Jiafei Lyu, Xiu Li. International Conference on Machine Learning (ICML), 2024.
+- [BATON: Aligning Text-to-Audio Model with Human Preference Feedback](https://arxiv.org/abs/2402.00744). Huan Liao, Haonan Han, **Kai Yang**, Tianjiao Du, Rui Yang, Zunnan Xu, Qinmei Xu, Jingquan Liu, Jiasheng Lu, Xiu Li. International Joint Conference on Artificial Intelligence (IJCAI), 2024.
+- [GTLMA: Generalizable Hierarchical Learning for Tasks with Variable Entities](). **Kai Yang**, Aicheng Gong, Jian Tao, Yang Zhang, Xiu Li. 2023 International Conference on Frontiers of Robotics and Software Engineering (FRSE).
+- [A novel ensemble approach for road traffic carbon emission prediction](https://link.springer.com/article/10.1007/s10668-024-04561-1): a case in Canada. Yongliang Liu, Chunling Tang, Aiying Zhou, **Kai Yang**. Environment, Development and Sustainability.
+  
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
