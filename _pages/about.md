@@ -6,7 +6,7 @@ redirect_from:
 
 ---
 
-I am currently a second-year master's student at Tsinghua Shenzhen International Graduate School, Tsinghua University, affiliated with the Intelligent Computing Lab. My supervisor is Prof.  [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en), and I have received a lot of research guidance from my senior fellow student [Jiafei Lyu](https://dmksjfl.github.io/). My main research focus on Reinforcement Learning, especially on Agent Exploration, Multi-Agent Reinforcement Learning and RLHF of Large Models. Currently, I am undertaking an internship at Tencent Technology Engineering Group, Machine Learning Platform Department, researching the effective fine-tuning of Large Language Models using RLHF.
+I am currently a second-year master's student at Tsinghua Shenzhen International Graduate School, Tsinghua University, affiliated with the Intelligent Computing Lab. My supervisor is Prof.[Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en), and I have received a lot of research guidance from my senior fellow student [Jiafei Lyu](https://dmksjfl.github.io/). My main research focus on Reinforcement Learning, especially on Agent Exploration, Multi-Agent Reinforcement Learning and RLHF of Large Models. Currently, I am undertaking an internship at Tencent Technology Engineering Group, Machine Learning Platform Department, researching the effective fine-tuning of Large Language Models using RLHF.
 
 I have not yet decided on my future direction. If you believe I am a good fit for your position or would consider me for a PhD program, please don't hesitate to contact me at yk22@mails.tsinghua.edu.cn.
 
@@ -90,6 +90,6 @@ Reseach on efficient RLHF-based fine-tuning methods for improving LLM performanc
 
 Research on how to enhance AIGC performance using RLHF and developing baseline algorithms for the Kaggle Lux competition.
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Teaching
+====
+*Introduction to Reinforcement Learning* by Prof.[Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en), Spring 2024. (Teaching Assistant)
