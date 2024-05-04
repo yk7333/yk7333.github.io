@@ -34,7 +34,7 @@ Publications
 - [GTLMA: Generalizable Hierarchical Learning for Tasks with Variable Entities](). **Kai Yang**, Aicheng Gong, Jian Tao, Yang Zhang, Xiu Li. 2023 International Conference on Frontiers of Robotics and Software Engineering (FRSE).
 - [A novel ensemble approach for road traffic carbon emission prediction](https://link.springer.com/article/10.1007/s10668-024-04561-1): a case in Canada. Yongliang Liu, Chunling Tang, Aiying Zhou, **Kai Yang**. Environment, Development and Sustainability.
   
-Education
+Educations
 ======
 
 **2022-present**: Pursuing Master's Degree in Artificial Intelligence at Tsinghua Shenzhen International Graduate School, Tsinghua University.
@@ -59,7 +59,7 @@ Honors & Awards
 
 **2019.10:** School-level outstanding student of Xi'an Jiaotong University.
 
-Competition Achievement
+Competitions
 ======
 
 Math:
