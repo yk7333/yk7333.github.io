@@ -6,7 +6,7 @@ redirect_from:
 
 ---
 
-I am currently a second-year master's student at Tsinghua Shenzhen International Graduate School, Tsinghua University, affiliated with the Intelligent Computing Lab. My supervisor is Prof. [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en), and I have received a lot of research guidance from my senior fellow student [Jiafei Lyu](https://dmksjfl.github.io/). My main research focus on Reinforcement Learning, especially on Agent Exploration, Multi-Agent Reinforcement Learning and RLHF of Large Models. Currently, I am undertaking an internship at Tencent Technology Engineering Group, Machine Learning Platform Department, researching the effective fine-tuning of Large Language Models using RLHF.
+I am currently a second-year master's student at Tsinghua Shenzhen International Graduate School, Tsinghua University, affiliated with the Intelligent Computing Lab. My supervisor is Prof. [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en), and I have received a lot of research guidance from my senior fellow student [Jiafei Lyu](https://dmksjfl.github.io/). My main research focus on **Reinforcement Learning**, especially on **Agent Exploration**, **Multi-Agent Reinforcement Learning** and **RLHF** of Large Models. Currently, I am undertaking an internship at Tencent Technology Engineering Group (TEG), Machine Learning Platform Department, researching the effective fine-tuning of Large Language Models using RLHF.
 
 I have not yet decided on my future direction. If you believe I am a good fit for your position or would consider me for a PhD program, please don't hesitate to contact me at [yk22@mails.tsinghua.edu.cn](mailto:yk22@mails.tsinghua.edu.cn)
 
@@ -73,7 +73,7 @@ Competitions
 
 ### Computer Science:
 
-**<font color="red">1st</font>** place in the "Gorgewalk_v2" environment of the Tencent Honor of Kings AI Challenge.
+**<font color="red">1st</font>** in the "Gorgewalk_v2" environment of the Tencent Honor of Kings AI Challenge.
 
 **Top 20** in the "hok_1v1" environment of the Tencent Honor of Kings AI Challenge.
 
