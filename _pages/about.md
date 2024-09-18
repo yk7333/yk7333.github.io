@@ -8,7 +8,7 @@ redirect_from:
 
 I am currently a second-year master's student at Tsinghua Shenzhen International Graduate School, Tsinghua University, affiliated with the Intelligent Computing Lab. My supervisor is Prof. [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en), and I have received a lot of research guidance from my senior fellow student [Jiafei Lyu](https://dmksjfl.github.io/). My main research focus on **Reinforcement Learning**, especially on **Agent Exploration**, **Multi-Agent Reinforcement Learning** and **RLHF** of Large Models. I am proficient and interested in using mathematical theory to optimize reinforcement learning methods. Currently, I am undertaking an internship at Tencent Technology Engineering Group (TEG), Machine Learning Platform Department, researching the effective fine-tuning of Large Language Models using RLHF.
 
-If you believe I am a good fit for your position, please don't hesitate to contact me at [yk22@mails.tsinghua.edu.cn](mailto:yk22@mails.tsinghua.edu.cn)
+If you believe I am a good fit for your position, please don't hesitate to contact me at [yk22@mails.tsinghua.edu.cn](mailto:yk22@mails.tsinghua.edu.cn).
 
 News
 =====
@@ -16,28 +16,28 @@ News
 
 - 2024.6 The paper "A two-stage reinforcement learning-based approach for multi-entity task allocation" is accepted by Engineering Applications of Artificial Intelligence.
 
-- 2024.5 The paper "Exploration and Anti-Exploration with Distributional Random Network Distillation" is accepted by ICML 2024
+- 2024.5 The paper "Exploration and Anti-Exploration with Distributional Random Network Distillation" is accepted by ICML 2024.
 
 - 2024.4 The work "BATON: Aligning Text-to-Audio Model with Human Preference Feedback" is accepted by IJCAI 2024.
 
-- 2024.2 The paper "Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model" is accepted by CVPR 2024
+- 2024.2 The paper "Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model" is accepted by CVPR 2024.
 
 - 2024.2 The work "BATON: Aligning Text-to-Audio Model with Human Preference Feedback" is on [Arxiv](https://arxiv.org/abs/2402.00744).
 
 - 2024.1 My work "Exploration and Anti-Exploration with Distributional Random Network Distillation" is on [Arxiv](https://arxiv.org/abs/2401.09750).
 
-- 2023.11 The paper "Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model" is selected as [HuggingFace daily paper](https://huggingface.co/papers/2311.13231)
+- 2023.11 The paper "Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model" is selected as [HuggingFace daily paper](https://huggingface.co/papers/2311.13231).
 
 - 2023.11 My work "Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model" is on [Arxiv](https://arxiv.org/abs/2311.13231).
 
 Publications
 ======
-- [Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Using_Human_Feedback_to_Fine-tune_Diffusion_Models_without_Any_Reward_CVPR_2024_paper.html). **Kai Yang**, Jian Tao, Jiafei Lyu, Chunjiang Ge, Jiaxin Chen, Weihan Shen, Xiaolong Zhu, Xiu Li. IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. <font color="red">(Huggingface Daily Paper)</font>
+- [Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Using_Human_Feedback_to_Fine-tune_Diffusion_Models_without_Any_Reward_CVPR_2024_paper.html). **Kai Yang**, Jian Tao, Jiafei Lyu, Chunjiang Ge, Jiaxin Chen, Weihan Shen, Xiaolong Zhu, Xiu Li. IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. <font color="red">(Huggingface Daily Paper)</font>.
 - [Exploration and Anti-Exploration with Distributional Random Network Distillation](https://arxiv.org/abs/2401.09750). **Kai Yang**, Jian Tao, Jiafei Lyu, Xiu Li. International Conference on Machine Learning (ICML), 2024.
 - [BATON: Aligning Text-to-Audio Model with Human Preference Feedback](https://arxiv.org/abs/2402.00744). Huan Liao, Haonan Han, **Kai Yang**, Tianjiao Du, Rui Yang, Zunnan Xu, Qinmei Xu, Jingquan Liu, Jiasheng Lu, Xiu Li. International Joint Conference on Artificial Intelligence (IJCAI), 2024.
 - [A two-stage reinforcement learning-based approach for multi-entity task allocation](https://www.sciencedirect.com/science/article/abs/pii/S0952197624010649). Aicheng Gong, **Kai Yang**, Jiafei Lyu, Xiu Li. Engineering Applications of Artificial Intelligence (EAAI) 136, 108906.
 - [GTLMA: Generalizable Hierarchical Learning for Tasks with Variable Entities](). **Kai Yang**, Aicheng Gong, Jian Tao, Yang Zhang, Xiu Li. 2023 International Conference on Frontiers of Robotics and Software Engineering (FRSE).
-- [CMBE: Curiosity-driven Model-Based Exploration for Multi-Agent Reinforcement Learning in Sparse Reward Settings](https://ieeexplore.ieee.org/abstract/document/10650769/). **Kai Yang**, Zhirui Fang, Xiu Li, Jian Tao. 2024 International Joint Conference on Neural Networks (IJCNN), 1-8
+- [CMBE: Curiosity-driven Model-Based Exploration for Multi-Agent Reinforcement Learning in Sparse Reward Settings](https://ieeexplore.ieee.org/abstract/document/10650769/). **Kai Yang**, Zhirui Fang, Xiu Li, Jian Tao. 2024 International Joint Conference on Neural Networks (IJCNN), 1-8.
 - [Multi-agent Exploration with Sub-state Entropy Estimation](https://ieeexplore.ieee.org/abstract/document/10649966/). Jian Tao, Yangkun Chen, Yang Zhang, **Kai Yang**, Xiu Li. 2024 International Joint Conference on Neural Networks (IJCNN), 1-9.
 - [A novel ensemble approach for road traffic carbon emission prediction](https://link.springer.com/article/10.1007/s10668-024-04561-1): a case in Canada. Yongliang Liu, Chunling Tang, Aiying Zhou, **Kai Yang**. Environment, Development and Sustainability.
   
@@ -50,7 +50,7 @@ Educations
 
 Honors & Awards
 ======
-**2023.10:** AI bank scholarship of Tsinghua University
+**2023.10:** AI bank scholarship of Tsinghua University.
 
 **2022.10:** Outstanding graduates of Xi'an Jiaotong University.
 
