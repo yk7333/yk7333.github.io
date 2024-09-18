@@ -12,6 +12,8 @@ If you believe I am a good fit for your position, please don't hesitate to conta
 
 News
 =====
+- 2024.7 The papers "CMBE: Curiosity-driven Model-Based Exploration for Multi-Agent Reinforcement Learning in Sparse Reward Settings" and "Multi-agent Exploration with Sub-state Entropy Estimation" are accpepted by International Joint Conference on Neural Networks 2024.
+
 - 2024.6 The paper "A two-stage reinforcement learning-based approach for multi-entity task allocation" is accepted by Engineering Applications of Artificial Intelligence.
 
 - 2024.5 The paper "Exploration and Anti-Exploration with Distributional Random Network Distillation" is accepted by ICML 2024
@@ -30,11 +32,13 @@ News
 
 Publications
 ======
-- [Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model]([https://arxiv.org/abs/2311.13231](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Using_Human_Feedback_to_Fine-tune_Diffusion_Models_without_Any_Reward_CVPR_2024_paper.html)). **Kai Yang**, Jian Tao, Jiafei Lyu, Chunjiang Ge, Jiaxin Chen, Weihan Shen, Xiaolong Zhu, Xiu Li. IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. <font color="red">(Huggingface Daily Paper)</font>
+- [Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Using_Human_Feedback_to_Fine-tune_Diffusion_Models_without_Any_Reward_CVPR_2024_paper.html). **Kai Yang**, Jian Tao, Jiafei Lyu, Chunjiang Ge, Jiaxin Chen, Weihan Shen, Xiaolong Zhu, Xiu Li. IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. <font color="red">(Huggingface Daily Paper)</font>
 - [Exploration and Anti-Exploration with Distributional Random Network Distillation](https://arxiv.org/abs/2401.09750). **Kai Yang**, Jian Tao, Jiafei Lyu, Xiu Li. International Conference on Machine Learning (ICML), 2024.
 - [BATON: Aligning Text-to-Audio Model with Human Preference Feedback](https://arxiv.org/abs/2402.00744). Huan Liao, Haonan Han, **Kai Yang**, Tianjiao Du, Rui Yang, Zunnan Xu, Qinmei Xu, Jingquan Liu, Jiasheng Lu, Xiu Li. International Joint Conference on Artificial Intelligence (IJCAI), 2024.
 - [A two-stage reinforcement learning-based approach for multi-entity task allocation](https://www.sciencedirect.com/science/article/abs/pii/S0952197624010649). Aicheng Gong, **Kai Yang**, Jiafei Lyu, Xiu Li. Engineering Applications of Artificial Intelligence (EAAI) 136, 108906.
 - [GTLMA: Generalizable Hierarchical Learning for Tasks with Variable Entities](). **Kai Yang**, Aicheng Gong, Jian Tao, Yang Zhang, Xiu Li. 2023 International Conference on Frontiers of Robotics and Software Engineering (FRSE).
+- [CMBE: Curiosity-driven Model-Based Exploration for Multi-Agent Reinforcement Learning in Sparse Reward Settings](https://ieeexplore.ieee.org/abstract/document/10650769/). **Kai Yang**, Zhirui Fang, Xiu Li, Jian Tao. 2024 International Joint Conference on Neural Networks (IJCNN), 1-8
+- [Multi-agent Exploration with Sub-state Entropy Estimation](https://ieeexplore.ieee.org/abstract/document/10649966/). Jian Tao, Yangkun Chen, Yang Zhang, **Kai Yang**, Xiu Li. 2024 International Joint Conference on Neural Networks (IJCNN), 1-9.
 - [A novel ensemble approach for road traffic carbon emission prediction](https://link.springer.com/article/10.1007/s10668-024-04561-1): a case in Canada. Yongliang Liu, Chunling Tang, Aiying Zhou, **Kai Yang**. Environment, Development and Sustainability.
   
 Educations
