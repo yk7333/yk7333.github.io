@@ -39,7 +39,7 @@ Publications
 - [GTLMA: Generalizable Hierarchical Learning for Tasks with Variable Entities](). **Kai Yang**, Aicheng Gong, Jian Tao, Yang Zhang, Xiu Li. 2023 International Conference on Frontiers of Robotics and Software Engineering (FRSE).
 - [CMBE: Curiosity-driven Model-Based Exploration for Multi-Agent Reinforcement Learning in Sparse Reward Settings](https://ieeexplore.ieee.org/abstract/document/10650769/). **Kai Yang**, Zhirui Fang, Xiu Li, Jian Tao. 2024 International Joint Conference on Neural Networks (IJCNN), 1-8.
 - [Multi-agent Exploration with Sub-state Entropy Estimation](https://ieeexplore.ieee.org/abstract/document/10649966/). Jian Tao, Yangkun Chen, Yang Zhang, **Kai Yang**, Xiu Li. 2024 International Joint Conference on Neural Networks (IJCNN), 1-9.
-- [A novel ensemble approach for road traffic carbon emission prediction](https://link.springer.com/article/10.1007/s10668-024-04561-1): a case in Canada. Yongliang Liu, Chunling Tang, Aiying Zhou, **Kai Yang**. Environment, Development and Sustainability.
+- [A novel ensemble approach for road traffic carbon emission prediction: a case in Canada](https://link.springer.com/article/10.1007/s10668-024-04561-1). Yongliang Liu, Chunling Tang, Aiying Zhou, **Kai Yang**. Environment, Development and Sustainability.
   
 Educations
 ======
