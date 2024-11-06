@@ -50,7 +50,7 @@ Educations
 
 Honors & Awards
 ======
-**2024.10:** School-level first class scholarship of Tsinghua University.
+**2024.10:** **National Scholarship** of Tsinghua University.
 
 **2023.10:** First class scholarship of Tsinghua Shenzhen International Graduate School.
 
