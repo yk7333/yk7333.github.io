@@ -87,7 +87,7 @@ Competitions
 
 ### Math:
 
-- **<font color="red">First Prize</font>** in the National Finals of the 13th Chinese Mathematics Competitions (CMC), ranking **7th** nationwide.
+- **<font color="red">First Prize</font>** in the National Finals of the 13th Chinese Mathematics Competitions (CMC), ranking **<font color="red">7th</font>** nationwide.
 
 - **third prize** in the National Finals of the 3rd Hua Jiao Cup Mathematics Competition.
 
