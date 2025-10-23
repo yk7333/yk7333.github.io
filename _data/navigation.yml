@@ -9,17 +9,17 @@ main:
   - title: "Educations"
     url: /#educations
     
-  - title: "Honors & Awards"
+  - title: "Honors&Awards"
     url: /#honors&awards   
     
   - title: "Competitions"
     url: /#competitions
         
-  - title: "Work & Internships"
+  - title: "Work&Internships"
     url: /#work&interships
     
   - title: "Teaching"
     url: /#teaching
 
-  - title: "Other Achievements"
-    url: /#others
+  - title: "Others"
+    url: /#other achievements
