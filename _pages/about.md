@@ -127,8 +127,9 @@ Teaching
 
 Teaching Assistant of the course *Introduction to Reinforcement Learning* instructed by Prof. [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en), Spring 2024.
 
-Others
+Other Achievement
 ====
+
 - **Champion** of the XJTU "Starcup" Teamfight Tactics Tournament.
 - **Third Place** in the Shaanxi Province Teamfight Tactics Challenge.​
 - **Second Place** in the University Town "Challenge Cup" League of Legends Competition.​
