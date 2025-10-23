@@ -12,11 +12,11 @@ If you are interested in connecting with me or believe there is potential for co
 
 News
 =====
+- 2025.10 The Paper "Thinking-Free Policy Initialization Makes Distilled Reasoning Models More Effective and Efficient Reasoners" is on [Arxiv](https://arxiv.org/abs/2509.26226). 
+
 - 2025.5 The Paper "CDSA: Conservative Denoising Score-based Algorithm for Offline Reinforcement Learning" is accepted by AAMAS 2026.
 
 - 2024.11 The Paper "Novelty-Guided Data Reuse for Efficient and Diversified Multi-Agent Reinforcement Learning" is accepted by AAAI 2025.
-
-- 2024.7 The papers "CMBE: Curiosity-driven Model-Based Exploration for Multi-Agent Reinforcement Learning in Sparse Reward Settings" and "Multi-agent Exploration with Sub-state Entropy Estimation" are accpepted by IJCNN 2024.
 
 - 2024.6 The paper "A two-stage reinforcement learning-based approach for multi-entity task allocation" is accepted by Engineering Applications of Artificial Intelligence.
 
@@ -25,8 +25,6 @@ News
 - 2024.4 The work "BATON: Aligning Text-to-Audio Model with Human Preference Feedback" is accepted by IJCAI 2024.
 
 - 2024.2 The paper "Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model" is accepted by CVPR 2024.
-
-- 2024.2 The work "BATON: Aligning Text-to-Audio Model with Human Preference Feedback" is on [Arxiv](https://arxiv.org/abs/2402.00744).
 
 - 2024.1 My work "Exploration and Anti-Exploration with Distributional Random Network Distillation" is on [Arxiv](https://arxiv.org/abs/2401.09750).
 
@@ -38,14 +36,14 @@ Publications
 ======
 - [Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Using_Human_Feedback_to_Fine-tune_Diffusion_Models_without_Any_Reward_CVPR_2024_paper.html). **Kai Yang**, Jian Tao, Jiafei Lyu, Chunjiang Ge, Jiaxin Chen, Weihan Shen, Xiaolong Zhu, Xiu Li. IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. <font color="red">(Huggingface Daily Paper)</font>.
 - [Exploration and Anti-Exploration with Distributional Random Network Distillation](https://arxiv.org/abs/2401.09750). **Kai Yang**, Jian Tao, Jiafei Lyu, Xiu Li. International Conference on Machine Learning (ICML), 2024.
+- [Thinking-Free Policy Initialization Makes Distilled Reasoning Models More Effective and Efficient Reasoners](https://arxiv.org/abs/2509.26226). Xin Xu, Cliveb AI, **Kai Yang**, Tianhao Chen, Yang Wang, Saiyong Yang, Can Yang. Arxiv.
 - [BATON: Aligning Text-to-Audio Model with Human Preference Feedback](https://arxiv.org/abs/2402.00744). Huan Liao, Haonan Han, **Kai Yang**, Tianjiao Du, Rui Yang, Zunnan Xu, Qinmei Xu, Jingquan Liu, Jiasheng Lu, Xiu Li. International Joint Conference on Artificial Intelligence (IJCAI), 2024.
 - [A two-stage reinforcement learning-based approach for multi-entity task allocation](https://www.sciencedirect.com/science/article/abs/pii/S0952197624010649). Aicheng Gong, **Kai Yang**, Jiafei Lyu, Xiu Li. Engineering Applications of Artificial Intelligence (EAAI) 136, 108906.
 - [CDSA: Conservative Denoising Score-based Algorithm for Offline Reinforcement Learning](https://arxiv.org/pdf/2406.07541). Zeyuan Liu, **Kai Yang**, Xiu Li. AAMAS 2026.
-- [Thinking-Free Policy Initialization Makes Distilled Reasoning Models More Effective and Efficient Reasoners]. Xin Xu, Cliveb AI, **Kai Yang**, Tianhao Chen, Yang Wang, Saiyong Yang, Can Yang. Arxiv.
+- [Exploration by Random Distribution Distillation]. Zhirui Fang, **Kai Yang**, Jian Tao, Jiafei Lyu, Lusong Li, Li Shen, Xiu Li. Arxiv.
 - [GTLMA: Generalizable Hierarchical Learning for Tasks with Variable Entities](). **Kai Yang**, Aicheng Gong, Jian Tao, Yang Zhang, Xiu Li. 2023 International Conference on Frontiers of Robotics and Software Engineering (FRSE).
 - [CMBE: Curiosity-driven Model-Based Exploration for Multi-Agent Reinforcement Learning in Sparse Reward Settings](https://ieeexplore.ieee.org/abstract/document/10650769/)<font color="red">(Oral)</font>. **Kai Yang**, Zhirui Fang, Xiu Li, Jian Tao. 2024 International Joint Conference on Neural Networks (IJCNN), 1-8.
 - [Multi-agent Exploration with Sub-state Entropy Estimation](https://ieeexplore.ieee.org/abstract/document/10649966/). Jian Tao, Yangkun Chen, Yang Zhang, **Kai Yang**, Xiu Li. 2024 International Joint Conference on Neural Networks (IJCNN), 1-9.
-- [A novel ensemble approach for road traffic carbon emission prediction: a case in Canada](https://link.springer.com/article/10.1007/s10668-024-04561-1). Yongliang Liu, Chunling Tang, Aiying Zhou, **Kai Yang**. Environment, Development and Sustainability.
   
 Educations
 ======
@@ -58,11 +56,13 @@ Honors & Awards
 ======
 **2025.9** Outstanding Sharer Award of Tencent TEG.
 
-**2025.6** **Outstanding Graduate​** Award of Tsinghua University​​. **Top 1%**.
+**2025.6** **Outstanding Graduate​** Award of Tsinghua University​​. **Top 1%**, Rank **1st** in Artificial Intelligence program.
 
 **2025.5** **​​Outstanding Graduate Thesis** of Tsinghua University​​. **Top 3%**.
 
-**2024.12** Second Prize in the Tsinghua University Professional Practice Competition. **Top 5%
+**2025.4** Second Prize in the Tsinghua University Professional Practice Competition. Top 5%.
+
+**2024.12** Academic Star Award 2nd prize of Tsinghua SIGS. Top 5%.
 
 **2024.10:** **National Scholarship** of Tsinghua University. **Top 1%**.
 
