@@ -10,16 +10,16 @@ main:
     url: /#educations
     
   - title: "Honors&Awards"
-    url: /#'honors & awards'   
+    url: /#honors'  
     
   - title: "Competitions"
     url: /#competitions
         
-  - title: "Work&Internships"
-    url: /#'work & interships'
+  - title: "Work"
+    url: /#work
     
   - title: "Teaching"
     url: /#teaching
 
   - title: "Others"
-    url: /#'other achievements'
+    url: /#others
